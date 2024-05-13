@@ -9,7 +9,7 @@
     ],
     "repository": "https://github.com/mradarshr/txtleech",
     "success_url": "https://telegram.me/vedxpw",
-    "stack": "heroku-22",
+    "stack": "heroku-20",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
